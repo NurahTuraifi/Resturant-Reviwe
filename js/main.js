@@ -81,7 +81,7 @@ initMap = () => {
     "https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.jpg70?access_token={mapboxToken}",
     {
       mapboxToken:
-        "pk.eyJ1Ijoid2FmYXR1cmFpZmkiLCJhIjoiY2s2dGMxbjl5MG04aTNucDk3a3UxMnM3ciJ9.ZnIFZTywPDZ86zgMQPeKwA",
+        "pk.eyJ1IjoibnVyYWhhYmR1bGF6aXoiLCJhIjoiY2s2dXpzbGM4MGVjajNqbGV5MHg1OGhkdSJ9.uJqiy9WXZacWxXPqoz7ncg",
       maxZoom: 18,
       attribution:
         'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
